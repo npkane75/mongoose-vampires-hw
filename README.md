@@ -17,9 +17,7 @@ Utilize the following resources to research the commands you will need:
 
 1. Fork and clone this repo, which includes:
 
-  - A folder for your `vampire_app`.
-
-  - A file for writing your app called `app.js`. You will write your code in here (even for the database).
+  - A file for writing your app called `server.js`. You will write your code in here (even for the database).
 
   - Don't forget to install dependencies: `npm i`
 
@@ -27,7 +25,7 @@ Utilize the following resources to research the commands you will need:
 
 - A file called `populateVampires.js` that includes data on vampires that you will add (later).
 
-2. Install `mongoose` with `npm`.  Require it in `app.js`.
+2. Install `mongoose` with `npm`.  Require it in `server.js`.
 
 ## What is a schema?
 
