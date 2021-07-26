@@ -48,7 +48,7 @@ Mongoose, in the background, can enforce these schemas (as strictly as you like)
 
 Lets design a schema using mongoose and then use it to create some documents and eventually query for those documents.
 
-1. Create a folder inside your `vampire_app` called `models`.
+1. Create a folder inside your project called `models`.
 
 2. Create a file inside your `models` folder called `vampire.js` (**singular**). You will create your schema and model in this file.
 
@@ -81,7 +81,7 @@ const vampire = {
 
 8. Lastly, set the **default value of the hair color to blonde**.
 
-9. Set up your `app.js` file to connect to your `vampires` database.
+9. Set up your `server.js` file to connect to your `vampires` database.
 
 10. If you like, you may now try testing your schema with the automated tests by running `npm test` in your terminal.
 
