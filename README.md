@@ -242,14 +242,18 @@ Select all vampires that:
 &#x1F534;  Commit. Suggested message: "used negative selections on vampire data"
 <hr>
 
-## 8\. Replace
+**You made it! You completed the homework!**
+
+# Hungry for More
+
+## Replace
 
 1. Replace the vampire called 'Claudia' with a vampire called 'Eve'. 
 <hr>
 &#x1F534;  Commit. Suggested message: "replaced vampire data"
 <hr>
 
-## 9\. Update
+## Update
 
 2. Update 'Eve' to have a gender of 'm'
 5. Rename 'Eve's' name field to 'moniker'
@@ -259,7 +263,7 @@ Select all vampires that:
 &#x1F534;  Commit. Suggested message: "updated vampire data"
 <hr>
 
-## 10\. Remove
+## Remove
 
 1. Remove a single document wherein the hair_color is 'brown'
 2. We found out that the vampires with the blue eyes were just fakes! Let's remove all the vampires who have blue eyes from our database.
@@ -269,7 +273,7 @@ Select all vampires that:
 &#x1F534;  Commit. Suggested message: "remove vampire data"
 <hr>
 
-# Hungry for more
+# Hungry for Even More
 
 1. Make an index route that will `res.send()` (or even better--`res.json()`--look it up!) the json of all the data in our database.
 
