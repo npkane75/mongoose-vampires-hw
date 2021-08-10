@@ -124,6 +124,8 @@ Vampire.collection.insertMany(vampireData, (err, data) => {
 
 Using the `Vampire.create()` method, create 4 new vampires with any qualities that you like two should be male and two should be female.
 
+
+
 <hr>
 &#x1F534; Commit. Suggested message: "added data into vampire collection"
 <hr>
